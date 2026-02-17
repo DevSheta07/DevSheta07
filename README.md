@@ -1,4 +1,4 @@
-# 👋 Hello, I'm DevSheta07!
+# 👋 Hello, I'm Dev Sheta!
 
 Computer Science student passionate about **MERN Stack Development** and **Data Science**. I love building intelligent applications that solve real-world problems and exploring the intersection of web development and data-driven insights.
 
@@ -9,8 +9,6 @@ Computer Science student passionate about **MERN Stack Development** and **Data 
 I'm a Computer Science student with a strong passion for:
 - 💻 **MERN Stack Development:** Building modern web applications using MongoDB, Express.js, React, and Node.js
 - 📊 **Data Science:** Extracting insights from data and creating predictive models
-- 🧠 **Machine Learning:** Exploring AI/ML technologies and their applications
-- 🚀 **Open Source:** Contributing to the developer community
 
 I believe in continuous learning and challenging myself with new technologies and projects.
 
@@ -26,19 +24,16 @@ I believe in continuous learning and challenging myself with new technologies an
 - **Express.js** - RESTful API development
 - **React.js** - Interactive UI components & state management
 - **Node.js** - Server-side JavaScript
-- JWT Authentication, Middleware, Error Handling
 - Responsive UI/UX Design
 
-**Data Science & ML:**
+**Data Science:**
 - Data Analysis & Visualization (Pandas, Matplotlib, Seaborn)
-- Machine Learning (Scikit-learn, TensorFlow, PyTorch)
-- Statistical Analysis & Modeling
 - Data Cleaning & Preprocessing
 
 **Tools & Platforms:**
 - VS Code, Jupyter Notebook, Google Colab
 - Git, GitHub, Docker, Linux
-- Postman, MongoDB Compass
+- MongoDB Compass
 
 ---
 
@@ -55,18 +50,10 @@ Data extraction and processing pipeline combining web scraping with data cleanin
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevSheta07&show_icons=true&theme=dark)
-
----
-
 ## 📚 Currently Learning
 
-- 🤖 Advanced Machine Learning techniques
 - 🌐 Modern MERN stack best practices & performance optimization
 - 📈 Data Engineering and ETL pipelines
-- ☁️ Cloud deployment (AWS, Heroku, Vercel)
 
 ---
 
@@ -85,7 +72,6 @@ I'm always excited to collaborate, discuss ideas, or connect with fellow develop
 
 - 💼 **LinkedIn:** [Add your LinkedIn profile]
 - 📧 **Email:** [Add your email]
-- 🌐 **Portfolio:** [Add your portfolio website if you have one]
 - 💬 **Discord/Twitter:** [Add your handles if applicable]
 
 ---
@@ -96,30 +82,12 @@ I'm always excited to collaborate, discuss ideas, or connect with fellow develop
 
 ---
 
-## 📚 Learning Resources I Recommend
-
-- **MERN Stack:** The Net Ninja MERN tutorial, freeCodeCamp, Traversy Media
-- **Data Science:** Kaggle, Andrew Ng's Machine Learning Specialization
-- **JavaScript:** MDN Web Docs, JavaScript.info
-- **General:** GitHub Learning Lab, YouTube tutorials
-
----
-
-## 🎉 Fun Facts
-
-- ☕ Powered by coffee and curiosity
-- 🌱 Passionate about solving real-world problems through technology
-- 🎯 Always exploring the intersection of web development and data science
-
----
-
 ## 📈 My Goals
 
 - [ ] Build 5+ full-stack MERN applications
 - [ ] Integrate ML models into web applications
 - [ ] Contribute to meaningful open-source projects
 - [ ] Master modern web development and machine learning
-- [ ] Share knowledge through technical blogs/articles
 
 ---
 
