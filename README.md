@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Dev Sheta!
+# Hello, I'm Dev Sheta!
 
 Computer Science student passionate about **MERN Stack Development** and **Data Science**. I love building intelligent applications that solve real-world problems and exploring the intersection of web development and data-driven insights.
 
