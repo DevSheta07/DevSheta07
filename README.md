@@ -1,96 +1,14 @@
-# Hello, I'm Dev Sheta!
+<h3 align="center">B.Tech CSE Student passionate about AI & Web Development</h3>
 
-Computer Science student passionate about **MERN Stack Development** and **Data Science**. I love building intelligent applications that solve real-world problems and exploring the intersection of web development and data-driven insights.
+- My Work [Customer Trends Analysis](https://github.com/DevSheta07/Customer_Trends_Analysis)
 
----
+- My Work [GDP-Data Extraction and Processing](https://github.com/DevSheta07/GDP-Data-Extraction-and-Processing)
 
-## 🎓 About Me
+- My Work [MediSearch Web Application](https://github.com/DevSheta07/MediSearchApp)
 
-I'm a Computer Science student with a strong passion for:
-- 💻 **MERN Stack Development:** Building modern web applications using MongoDB, Express.js, React, and Node.js
-- 📊 **Data Science:** Extracting insights from data and creating predictive models
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-I believe in continuous learning and challenging myself with new technologies and projects.
-
----
-
-## 💻 Skills & Technologies
-
-**Programming Languages:**
-- JavaScript (ES6+), Python, Java, C++
-
-**Web Development (MERN Stack):**
-- **MongoDB** - NoSQL database design
-- **Express.js** - RESTful API development
-- **React.js** - Interactive UI components & state management
-- **Node.js** - Server-side JavaScript
-- Responsive UI/UX Design
-
-**Data Science:**
-- Data Analysis & Visualization (Pandas, Matplotlib, Seaborn)
-- Data Cleaning & Preprocessing
-
-**Tools & Platforms:**
-- VS Code, Jupyter Notebook, Google Colab
-- Git, GitHub, Docker, Linux
-- MongoDB Compass
-
----
-
-## 🌟 Featured Projects
-
-### 1. [Customer Trends Analysis](https://github.com/DevSheta07/Customer_Trends_Analysis)
-Comprehensive data analysis project exploring customer behavior patterns using Python, Pandas, and Matplotlib. Demonstrates data-driven decision-making and visualization skills.
-
-### 2. [Modular Node.js API](https://github.com/DevSheta07/modular-nodejs-api)
-RESTful API server built with Node.js and Express.js using modular architecture. Showcases backend development expertise within the MERN ecosystem.
-
-### 3. [GDP Data Extraction and Processing](https://github.com/DevSheta07/GDP-Data-Extraction-and-Processing)
-Data extraction and processing pipeline combining web scraping with data cleaning and analysis. Highlights ETL processes and data manipulation capabilities.
-
----
-
-## 📚 Currently Learning
-
-- 🌐 Modern MERN stack best practices & performance optimization
-- 📈 Data Engineering and ETL pipelines
-
----
-
-## 🎯 What I'm Working On
-
-- Building end-to-end MERN stack applications with data-driven features
-- Developing full-stack projects that integrate AI/ML capabilities
-- Contributing to open-source projects
-- Expanding expertise in cloud deployment and scalable architectures
-
----
-
-## 🤝 Let's Connect!
-
-I'm always excited to collaborate, discuss ideas, or connect with fellow developers and data enthusiasts!
-
-- 💼 **LinkedIn:** [Add your LinkedIn profile]
-- 📧 **Email:** [Add your email]
-- 💬 **Discord/Twitter:** [Add your handles if applicable]
-
----
-
-## 💡 My Development Philosophy
-
-> "Write clean code, build scalable systems, learn continuously, and create lasting impact."
-
----
-
-## 📈 My Goals
-
-- [ ] Build 5+ full-stack MERN applications
-- [ ] Integrate ML models into web applications
-- [ ] Contribute to meaningful open-source projects
-- [ ] Master modern web development and machine learning
-
----
-
-**Explore my repositories to see what I'm building! Always open to feedback and collaboration.** 🚀
-
-⭐ If you find something interesting, don't forget to star it!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
